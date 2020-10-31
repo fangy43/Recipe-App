@@ -1,6 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
 .App{
   min-height: 100vh;
   background-image: radial-gradient(#ffb199 30%, #ff0844 100%);
+}
+
+.logo{
+  font-family: 'Grandstander', cursive;
+  font-size: 150px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px crimson;
+  padding: 50px ;
+
+  
 }
 
 .search-form{

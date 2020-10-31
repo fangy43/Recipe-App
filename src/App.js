@@ -36,6 +36,7 @@ function App() {
 
   return (
     <div className="App">
+      <div className="logo">Recipe App</div>
       <form onSubmit={getSearch} className="search-form">
         <input
           className="search-bar"
