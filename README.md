@@ -1,4 +1,3 @@
 # Recipe-App
-## Recipe Application
-
+Recipe Application
 - for learning about Html , Css , Js , React , API
