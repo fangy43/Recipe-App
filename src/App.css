@@ -10,9 +10,7 @@
   text-align: center;
   color: white;
   text-shadow: 2px 2px crimson;
-  padding: 50px ;
-
-  
+  padding: 50px ;  
 }
 
 .search-form{
@@ -43,5 +41,4 @@
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  
 }
