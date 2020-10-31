@@ -9,11 +9,11 @@
     align-items: center;
 
     width:40%;
-    min-width: 500px;
+    min-width: 400px;
     padding: 20px;
     margin: 20px;
 }
 
 .image{
-
+    border-radius: 10px;
 }
